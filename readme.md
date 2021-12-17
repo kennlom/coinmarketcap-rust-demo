@@ -4,3 +4,5 @@ This is a very simple demo console application in Rust that connects to CoinMark
 
 There is no error handling as this only serve to demonstrate Rust's
 HTTP Request and json capabilities.
+
+![CoinMarketCap Top Trending Crypto](coinmarketcap.png)
